@@ -1,0 +1,57 @@
+number of GPUs: 4
+40000000
+Tempo exato= 10583.480028152466
+Nlist = 20000 nprobe = 10
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 80.70053601264954
+Fazendo a busca
+Tempo aproximado = 207.8556773662567
+Recall@5 = 0.867954555
+Recall@10 = 0.7132424325
+Recall@20 = 0.50557219
+Nlist = 19000 nprobe = 10
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 74.19730949401855
+Fazendo a busca
+Tempo aproximado = 209.62099981307983
+Recall@5 = 0.8707252
+Recall@10 = 0.7183725125
+Recall@20 = 0.5122905075
+Nlist = 18000 nprobe = 10
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 68.09815096855164
+Fazendo a busca
+Tempo aproximado = 209.97474884986877
+Recall@5 = 0.87384747
+Recall@10 = 0.7240719525
+Recall@20 = 0.51957155375
+Nlist = 17000 nprobe = 10
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 62.78935885429382
+Fazendo a busca
+Tempo aproximado = 216.75912928581238
+Recall@5 = 0.87691596
+Recall@10 = 0.7297620575
+Recall@20 = 0.5270887575
+Nlist = 16000 nprobe = 10
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 58.41775965690613
+Fazendo a busca
+Tempo aproximado = 224.6967556476593
+Recall@5 = 0.88002804
+Recall@10 = 0.735687775
+Recall@20 = 0.53510648625
+Nlist = 15000 nprobe = 10
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 53.95894002914429
+Fazendo a busca
+Tempo aproximado = 247.6884412765503
+Recall@5 = 0.883603675
+Recall@10 = 0.7423718425
+Recall@20 = 0.54407546375

@@ -1,0 +1,15 @@
+Primeira configuração IVFFlat
+number of GPUs: 4
+30000000,12
+Tempo exato= 5967.784150123596
+Fazendo o indice
+Treinando o negocio
+Tempo de treino = 35.123751163482666
+Fazendo a busca
+Tempo aproximado = 240.77741265296936
+Recall@5 = 0.9685824333333334
+Recall@10 = 0.9127448833333334
+Recall@20 = 0.797134535
+
+
+nlist = 12.000 nprobe = 20
