@@ -403,6 +403,7 @@ def write_df(df,index,name,method,dim,n_sample,time_knn,rec_value,k,nlist,nprobe
 
     return
 
+
 def instanciate_dataset(info):
 
     """
@@ -620,7 +621,8 @@ def main():
 
 main()
 # https://github.com/matsui528/faiss_tips -> Faiss Tips
-# Erro in classes https://github.com/facebookresearch/faiss/issues/540
+# Error in classes https://github.com/facebookresearch/faiss/issues/540
+# Memory issue https://github.com/facebookresearch/faiss/wiki/FAQ#how-can-i-set-nprobe-on-an-opaque-index
 
 
 

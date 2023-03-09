@@ -1,0 +1,14 @@
+Resultados:
+
+Numero de Amostras 100: 
+
+8000 : A partir de [5] não funciona
+9000 : A partir de [2] não funciona
+10000 : A partir de [9] não funciona
+
+Numero de Amostras 200: 
+
+5000 : A partir de [12] não funciona
+6000 : A partir de [15] não funciona
+70000 : A partir de [18] não funciona
+
